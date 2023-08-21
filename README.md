@@ -23,6 +23,6 @@ I believe in continuous learning and strive to improve my skills with every proj
 
 ## 🤝 Let's Connect
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dusti-johnson/) to discuss collaboration or just to chat about programming! You can also email me at knightlybyte@gmail.com.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dusti-johnson/) to discuss collaboration or just to chat about programming! You can also email me at dustijohnson@outlook.com.
 
 Thanks for visiting my profile! 🚀
