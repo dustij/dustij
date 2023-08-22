@@ -13,13 +13,11 @@ I'm a passionate Python enthusiast who loves to explore various domains of progr
 
 ## 🌱 Current Projects
 
-- Building automated tools for personal finance management
-- Exploring computer vision applications for creating bots
-- Learning HTML, CSS, and JavaScript for web development
+Presently, my focus centers on a web application project aimed at optimizing time management, productivity, and personal development.
 
 ## 📚 Always Learning
 
-I believe in continuous learning and strive to improve my skills with every project I undertake. Good documentation and best practices are my guiding principles.
+As a firm believer in lifelong learning, I view each project as an opportunity to refine my skills. Good documentation and best practices are my guiding principles.
 
 ## 🤝 Let's Connect
 
