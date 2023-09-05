@@ -1,19 +1,24 @@
 # Hello, I'm Dusti Johnson! 👋
 
-I'm a passionate Python enthusiast who loves to explore various domains of programming. My interests include automation, computer vision, web development, and software/data science. I'm on a constant journey of learning and improving my skills.
+I'm a Python enthusiast interested in various programming areas, including automation, computer vision, web development, and software/data science. I'm dedicated to ongoing learning and skill enhancement, which guides my journey in Python development.
 
 ## 🔧 Technologies and Tools
 
-- Python
-- Automation
-- Computer Vision
-- Web Development (HTML, CSS, JavaScript)
-- Data Science
-- Git
+My current priorities and expertise include:
+
+- **Python and Git**: Top priorities for me.
+- **Frameworks**: Django, PyQt5, SQLite.
+- **Data**: Pandas and NumPy for data tasks.
+- **Computer Vision**: OpenCV.
+- **Automation**: PyAutoGUI.
+- **Web Scraping**: Selenium.
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap.
+
+These areas reflect my commitment to mastering various tools and technologies for diverse projects.
 
 ## 🌱 Current Projects
 
-Presently, my focus centers on a web application project aimed at optimizing time management, productivity, and personal development.
+I'm currently working on InvoiceTrackr, a web app for managing work invoices and improving my Django web development skills.
 
 ## 📚 Always Learning
 
