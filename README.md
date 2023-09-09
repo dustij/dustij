@@ -18,7 +18,7 @@ These areas reflect my commitment to mastering various tools and technologies fo
 
 ## 🌱 Current Projects
 
-I'm currently working on InvoiceTrackr, a web app for managing work invoices and improving my Django web development skills.
+I'm currently working on InvoiceTrackr, a web app for managing work invoices and improving my Django web development skills. As well as SavingsSorcerer, a Django app designed for personal budgeting.
 
 ## 📚 Always Learning
 
