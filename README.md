@@ -12,7 +12,7 @@ My current priorities and expertise include:
 - **Computer Vision**: OpenCV.
 - **Automation**: PyAutoGUI.
 - **Web Scraping**: Selenium.
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap.
+- **Web Development**: React, HTML, CSS, JavaScript.
 
 These areas reflect my commitment to mastering various tools and technologies for diverse projects.
 
