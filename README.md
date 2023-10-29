@@ -7,12 +7,12 @@ I'm a Python enthusiast interested in various programming areas, including autom
 My current priorities and expertise include:
 
 - **Python and Git**: Top priorities for me.
-- **Frameworks**: Django, PyQt5, SQLite.
+- **Frameworks**: Next.js, Django, PyQt5.
 - **Data**: Pandas and NumPy for data tasks.
 - **Computer Vision**: OpenCV.
 - **Automation**: PyAutoGUI.
 - **Web Scraping**: Selenium.
-- **Web Development**: React, HTML, CSS, JavaScript.
+- **Web Development**: React, HTML, CSS, Tailwind, Typescript.
 
 These areas reflect my commitment to mastering various tools and technologies for diverse projects.
 
