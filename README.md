@@ -3,7 +3,7 @@
 I'm a Computer Information Science (CIS) student at Washburn University and an aspiring software developer passionate about full-stack solutions, web applications, desktop applications, and automation scripts. I love building things that solve real problems, make life easier, or are just plain fun!
 
 ## 🌟 Highlights
-- **ClumsyCat Solana Token**: Launched the ClumsyCat token on the Solana network, complete with a tradeable market and a live website. Check it out: [ClumsyCat Clawz](https://github.com/dustij/clumsycat-clawz).
+- **ClumsyCat Solana Token**: Launched the ClumsyCat token on the Solana network, complete with a tradeable market and a live [website](https://www.clumsycatsol.com/). Check out the project: [ClumsyCat Clawz](https://github.com/dustij/clumsycat-clawz).
 - **Java Learner**: Currently diving into Java at school, fascinated by type safety. I've explored Python, JavaScript/TypeScript, and have a growing interest in Rust and lower-level programming with C or C++.
 
 ## 🚀 What I Do
