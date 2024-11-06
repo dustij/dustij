@@ -12,8 +12,8 @@ I'm a Computer Information Science (CIS) student at Washburn University and an a
 - **Collaborative Projects**: I'm interested in working on small projects with other developers (especially beginners!) to solve everyday problems, like budgeting, finance tracking, and productivity tools.
 
 ## 🛠️ Tech Stack
-- **Languages & Frameworks**: Python, Django, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Java
-- **Libraries & Tools**: pandas, NumPy, PyAutoGUI, OpenCV, PyQt5, Drizzle ORM, SQLite, MySQL, PostgreSQL
+- **Languages & Frameworks**: Python, Django, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Java, Maven
+- **Libraries & Tools**: pandas, NumPy, PyAutoGUI, OpenCV, PyQt5, Drizzle ORM, SQLite, MySQL, PostgreSQL, JavaFX
 
 ## ✨ My Approach
 When I work on a project, my goal is to quickly find a solution and get something up and running. Seeing things in action fuels my creativity and helps me improve. I'm a big fan of refactoring and even starting over when I find a better way forward. I also love using tools like ChatGPT to help with writing documentation, planning features, and debugging code (maybe even had a little help with this README 👀).
