@@ -21,7 +21,6 @@ When I work on a project, my goal is to quickly find a solution and get somethin
 ## 🌐 Let's Connect
 - **LinkedIn**: [Dusti Johnson](https://www.linkedin.com/in/dusti-johnson/)
 - **Website**: [dustijohnson.com](https://dustijohnson.com)
-- **Email**: [dusti@dustijohnson.com](mailto:dusti@dustijohnson.com)
 
 I'm always looking to connect and collaborate with other developers. If you're interested in building something cool, solving real problems, or just want to chat about code, feel free to reach out!
 
