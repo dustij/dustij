@@ -2,8 +2,16 @@
 
 > "Any program is only as good as it is useful."
 
-I'm a **Computer Science** undergrad who builds websites, writes small programs, and practices competitive programming using **Java, Python, and TypeScript (Next.js)**. I focus on writing **extensible and maintainable** code and refining systems until they’re simple and reliable.
+I'm a Computer Science undergrad who builds websites, creates mobile apps, and practices competitive programming. 
 
-🚀 **Let’s connect if you’re building something!**  
+My languages and frameworks are:
+- JavaScript/TypeScript (Next.js)
+- Dart (Flutter)
+- Java
+- Python
+
+I write maintainble code by focusing on high cohesion and small classes. I enjoy building things and want to collaborate.
+
+You can reach me on LinkedIn or by [email](mailto:dustijohnson@outlook.com)!
 
 📫 **[Website](https://dustijohnson.com)** | **[LinkedIn](https://www.linkedin.com/in/dusti-johnson/)**  
