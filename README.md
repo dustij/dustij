@@ -1,6 +1,6 @@
 # Hi, I'm Dusti 👋  
 
-> "Any program is only as good as it is useful."
+> "First, solve the problem. Then, write the code"
 
 I'm a Computer Science undergrad who builds websites, creates mobile apps, and practices competitive programming. 
 
