@@ -14,4 +14,4 @@ I write maintainble code by focusing on high cohesion and small classes. I just 
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/dusti-johnson/) or by [email](mailto:dustijohnson@outlook.com)!
 
-👉 **[Check out some of the stuff I've made!](https://dustijohnson.com/projects)** 👈
+👉 **[Check out some of the things I've made!](https://dustijohnson.com/projects)** 👈
