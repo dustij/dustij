@@ -10,7 +10,7 @@ My languages and frameworks are:
 - Java
 - Python
 
-I write maintainble code by focusing on high cohesion and small classes. I just enjoy building things—looking to collaborate.
+I write maintainble code by focusing on high cohesion and modularity. I just enjoy building things—looking to collaborate.
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/dusti-johnson/) or by [email](mailto:dustijohnson@outlook.com)!
 
